@@ -1,0 +1,2 @@
+rootProject.name='Sample_Counter_Kotlin'
+include ':app'

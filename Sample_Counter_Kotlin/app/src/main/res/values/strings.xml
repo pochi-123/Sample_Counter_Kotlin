@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample_Counter_Kotlin</string>
+    <string name="countText">0</string>
+    <string name="resetButton">reset</string>
+    <string name="minusButton">minus</string>
+    <string name="addButton">add</string>
+</resources>
